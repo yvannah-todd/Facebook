@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#cont{
+    height: 500px ;
+    width: 1350px;
+    gap: 10% ;
+    background-color: white ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(236, 236, 248);
+}
+.fb{
+    color: blue;
+    align-items: center;
+    font-size: 80px;
+}
+#cont1{
+    margin-left: 200px;
+    align-items: center;
+    margin-top: 0px;
+}
+.a {
+    text-align: center;
+    text-decoration: none; 
+    font-size: 16px;
+}
+.un{
+    color: white;
+}
+.deux{
+    color: blue;
+    font-size: 18px;
+    align-items: center ;
+    margin-left: 70px;
+}
+.bouton {
+    border: 0px;
+    background-color: blue;
+    border-radius: 5px;
+    margin: 5px 30px;
+    margin-left: 80px;
+    padding: 15px 15px;
+}
+#cont2{
+    box-shadow: 5px 5px 20px gray;
+    align-items: center;
+    margin-right: 150px;
+    margin-top: 0px;
+    background-color: rgba(255, 255, 255, 0.979);
+    height: 310px;
+    width: 300px;
+}
+hr{
+    align-items: center;
+    width: 250px;
+}
+.vert{
+    background-color: rgb(41, 219, 17);
+    margin-left: 30px;
+    margin-top: 5px;
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.nv{
+    color: white;
+    font-size: 16px;
+    margin: 5px 10px;
+}
+.adrs{
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 2px;
+    width: 250px;
+    align-items: center;
+    padding: 15px 15px; 
+    margin: 10px 10px;
+}
+.mdp{
+    font-size: 16px;
+    border-radius: 5px;
+    box-shadow: 2px;
+    width: 250px;
+    align-items: center;
+    padding: 15px 15px;
+    margin: 10px 10px;
+}
+.cont3{
+     text-align: left;
+    margin-left: 150px;
+}
+#hr{
+    width: 1350px;
+}
+.hr{
+    width: 1000px;
+    margin-left:100px ;
+}
+    
